@@ -1,6 +1,6 @@
-- We can see list methods with dir(list) function.
+- We can see list methods with the dir(list) function.
 - .append() Method:
-   - We use this method for to add any unit to lists.
+   - We use this method to add any unit to lists.
    - We can't add more than one unit.
 
 - .extend() Method:
