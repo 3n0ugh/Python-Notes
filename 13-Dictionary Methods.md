@@ -8,7 +8,7 @@
    - We can write both of them (values and keys).
 
 - .get() Method
-   - If that key can't found in dictionary, method give to us a output.
+   - If that key can't be found in a dictionary, the method gives us an output.
 
 - .clear() Method
    - Delete all dictionary units and left a empty dictionary.
