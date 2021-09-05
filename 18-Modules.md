@@ -8,7 +8,7 @@
 		```python
 			import module_name
 		```
-	- We can use dir function to show module's functions and methods.
+	- We can use the dir function to show the module's functions and methods.
 		```python
 			dir(module_name)
 		```
@@ -18,11 +18,11 @@
 		```
 	
 - Different Ways to Importing Modules
-	- Sometimes you need to call modules with another name or you can think it's better than using with module name. Exactly, this times we using this way:
+	- Sometimes, you need to call modules with another name. Or you can think it's better than using the module name. Exactly, this times we used this way:
 		```python
 			import module_name as different_name
 		```
-	- Also we can import just the attributes from module.
+	- Also, we can import just the attributes from the module.
 		```python
 			from module_name import name1, name2, name3, ...
 		```
@@ -32,7 +32,7 @@
 				name
 				# output: 'posix'
 			```
-	- In another way, we are importing and change names of attributes/functions.
+	- In another way, we are importing and change the names of attributes/functions.
 		```python
 			from module_name import name as different_name
 		```
@@ -50,11 +50,11 @@
 
 - Defining Modules
 	- We can see all modules with os.\_\_file__. (except writing with C.)
-	- Modules are also a programming files. While we are defining a module, Just creating a programming file.
-	- While we are importing our defining module, go the directory is our creating programming file and open a exculisive shell here then use import command.
+	- Modules are also programming files. While we are defining a module, Just creating a programming file.
+	- While we are importing our defining module, go the directory is our creating programming file and open an exclusive shell here then, use the import command.
 	
 - Path of Modules (:>)
-	- If we want to import our modules from any directory, we can add the directory to sys.path or copy/move to the directory which including in sys.path.
+	- If we want to import our modules from any directory, we can add the directory to the sys.path or copy/move to the directory which is contained in the sys.path.
 	
 - Module's Attributes
 	- \_\_import__ : We can importing modules with that command in loops or programms. And we can't use that modules after it works finished. Also we can't use another attributes and functions. If we want to use them, we need to match with a variable like 
