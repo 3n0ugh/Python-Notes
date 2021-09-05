@@ -20,7 +20,7 @@
    - It is starting to design by Joe Becker , Lee Collins and Mark Davis.
 
 - .encode method's errors parameters
-   ![](https://github.com/3n0ugh/Python-Notes/blob/main/Pasted%20image.png)
+   - ![](https://github.com/3n0ugh/Python-Notes/blob/main/Pasted%20image.png)
    ```python
       "bu Türkçe bir cümledir.".encode("ascii", errors="strict")
    ```
