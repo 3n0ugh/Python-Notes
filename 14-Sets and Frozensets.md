@@ -3,7 +3,7 @@
       ```python
          set(["anything"])
       ```
-   - Or first create a list than:
+   - Or first create a list then:
       ```python
          set(list_name)
       ```
@@ -19,10 +19,10 @@
       ```python
          set(dictionary_name)
       ```
-   - But we can't use integer for to create a set.
-   - Also we can create like that:
+   - But we can't use an integer to create a set.
+   - Also, we can create like that:
       ```python
-         {"something", “anything”, “nothing”}
+         {"something", "anything", "nothing"}
       ```
    - If we try to convert dictionaries to set, we will lose values.
    But if we will do like this;
@@ -57,4 +57,4 @@
          frozenset(["anything"])
       ```
    - Same methods with sets.
-   - Frozensets are immutable.
+   - Frozen sets are immutable.
