@@ -2,10 +2,10 @@
 - Tuples are immutable.
 
 - To Define Tuple
-      ```python
-         Marks = ("BMW", 8 , "Fiat" , "Renault", 9)
-         Marks = "BMW", 8 "Fiat", "Renault", 9
-      ```
+   ```python
+      Marks = ("BMW", 8 , "Fiat" , "Renault", 9)
+      Marks = "BMW", 8 "Fiat", "Renault", 9
+   ```
    - Also we can use tuple() function to define a tuple.
       ```python
          tuple(["John", "Patrick", 9, "Alice"])
