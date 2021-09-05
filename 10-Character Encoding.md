@@ -3,7 +3,6 @@
  - Computers are percieve electrical signals then  meaning them to 0 and 1.  (about voltage)
  - If we want to encode something , we are convertting them readeable things with using 0 and 1.
 
-</br> 
 - ASCII
    - American Standart Code for Information Interchange
    - It designed by Bob Bemer and his crew.
