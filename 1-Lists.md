@@ -1,5 +1,7 @@
 - We will use square brackets ([]) to define lists.
-   - Example: >>> Cities = [ “Berlin", “London”, “Istanbul”, “Washington D.C."]
+   ```python 
+      Cities = [ “Berlin", “London”, “Istanbul”, “Washington D.C."]
+   ```
 
 - Lists can include different data types like integer, strings , floating numbers.
    - Example : >>> List = ["Car", “32”, “5.8”]
