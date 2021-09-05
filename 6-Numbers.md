@@ -11,7 +11,7 @@
    - It show how many bit space filling.
 
 - .as_integer_ratio() (float method)
-   - If 2 integer divide each other , give to us a floating point number and that method say to us that 2 integer number.
+   - If 2 integer divides each other, give to us a floating-point number and that method say to us that 2 integer number.
 
 - .is_integer()
    - We use to find a number integer or not.
