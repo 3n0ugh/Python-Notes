@@ -3,29 +3,29 @@
       Cities = [ "Berlin", "London", "Istanbul", "Washington D.C."]
    ```
 
-- Lists can include different data types like integer, strings , floating numbers.
+- Lists can include different data types like integers, strings, floating numbers.
    ```python
      List = ["Car", "32", "5.8"]
    ```
 
-- List also contains another lists.
+- List also contains other lists.
    ```python
      List = ["Car", ["Berlin", "London", "Istanbul"], "32", "5.8"]
    ```
 
-- We can create empty list.
+- We can create an empty list.
    ```python
      List = []
    ```
 
-- Sometimes we can get list output from another source.
+- We can get list output from another source.
    ```python
       School = "Heybeliada Deniz Lisesi"
       School.split()
       # output: ['Heybeliada', ‘Deniz’, ‘Lisesi’]
    ```
    
-- As we can see i variables create a double unit list. Also we separate units to parameters.
+- As we can see, variables create a double unit list. Also, we separate units into parameters.
 with star sign (*). We can write like print(range(i[0], i[1])), if we don't use star sign.
 
 
@@ -39,10 +39,10 @@ with star sign (*). We can write like print(range(i[0], i[1])), if we don't use 
    ```
 
 - list() Function
-   - If we want to seperate all units of string, We will use list() function.
+   - If we want to separate all string units, We will use the list() function.
    ```python
       print(list(characters))
-      # output: ['a', ‘s’, ‘d’ , ‘f’ , ‘a’, ‘s’, ‘k’, ‘j’, ‘f’, ‘h’, ‘l’, ‘a’, ‘s’, ‘f’, ‘i’, ‘s’, ‘a’, ‘j’, ‘d’, ‘k’, ‘f’, ‘h’, ‘a’, ‘s’, ‘l’]
+      # output: ['a', 's', 'd', 'f', 'a', 's', 'k', 'j', 'f', 'h', 'l', 'a', 's', 'f', 'i', 's', 'a', 'j', 'd', 'k', 'f', 'h', 'a', 's', ‘l’]
    ```
    - If we want to get numbers with range() function, we can do it with list() function.
    ```python
@@ -71,8 +71,8 @@ with star sign (*). We can write like print(range(i[0], i[1])), if we don't use 
    ```python
       fruits[0] = "cherry"
    ```
-   - Now our fruits variable has not apple unit. But it's first unit is cherry.
-   - To change between some queue in list we can use this 
+   - Now, our fruits variable has not apple unit. But its first unit is cherry.
+   - To change between some queues in a list, we can use this 
    ```python
       list[0:len(list)] = 9, 8, 7
    ```
