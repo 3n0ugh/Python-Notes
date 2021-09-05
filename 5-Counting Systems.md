@@ -1,5 +1,5 @@
 - Decimal
-   - We can count numbers with power of 10.
+   - We can count numbers with a power of 10.
       ```python
          (0 * (10 ** 0)) + (8 * (10 ** 1)) + (9 * (10 ** 2)) + (1 * (10 ** 3)) 
          # output: 1980
@@ -17,8 +17,8 @@
          # output: 1980 = '7bc'
       ```
 - Binary
-   - It has just 2 symbol. (0, 1)
-   - We can count numbers with power of 2.
+   - It has just 2 symbols. (0, 1)
+   - We can count numbers with a power of 2.
       ```python
          (0 * (2 ** 0)) + (0 * (2 ** 1)) + (1 * (2 ** 2)) + (1 * (2 ** 3)) 
          # output: 12
@@ -30,11 +30,11 @@
       - 0b mean is the number from binary.
    
    - hex()
-      - It convert numbers to hexdecimal form.
-      - 0x mean is the number from hexdecimal.
+      - It converts numbers to hexadecimal form.
+      - 0x mean is the number from hexadecimal.
 
    - oct()
-      - It convert numbers to octal form.
+      - It converts numbers to octal form.
       - 0o mean is the number from octal.
    
    - int()
