@@ -5,4 +5,4 @@
 - If you don't return the function, you can't use it.
 
 - names-pace
-   - Example : If you have a  variable out of the function but also you have a same name variable in function, Both are the different.
+   - Example: If you have a  variable out of the function but also have the same name variable in the function, Both are different.
