@@ -1,4 +1,4 @@
-- To define a byte write:
+- To define a byte, write:
    ```python
       b"anything"
    ```
@@ -13,8 +13,8 @@
    - .fromhex() Method
       - hexdecimal characters to byte.
 
-- Bytearrays are immutable. If you want to change any bytearray, you need to define again.
-- To create a bytearray we use bytearray() function.
+- Byte arrays are immutable. If you want to change any byte array, you need to define it again.
+- To create a byte array, use the bytearray() function.
    ```python
       bytearray(b"PDF-1.7")
    ```
